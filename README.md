@@ -1,2 +1,2 @@
-# bab-test-1
-More BabylonJS test thingy
+# bab-test-template
+Template for BabylonJS test thingies

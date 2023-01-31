@@ -9,5 +9,5 @@ export default defineConfig({
   plugins: [vue(), unocss({
     presets: [presetAttributify(), presetUno(), presetAutoprefixer()],
   })],
-  base: '/bab-test-1/',
+  base: '/bab-test-template/',
 })
