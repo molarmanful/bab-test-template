@@ -47,7 +47,7 @@ let createScene = async (canvas, cb = _ => { }) => {
     engine.resize()
   })
 
-  cb({ engine, scene })
+  cb({ B, engine, scene })
 }
 
 export { createScene }
